@@ -1,18 +1,25 @@
-### Hi there 👋
 
-<!--
-**daanmlab/daanmlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+            ___           _,.---,---.,_
+            |         ,;~'             '~;,
+            |       ,;                     ;,
+   Frontal  |      ;                         ; ,--- Supraorbital Foramen
+    Bone    |     ,'                         /'
+            |    ,;                        /' ;,
+            |    ; ;      .           . <-'  ; |
+            |__  | ;   ______       ______   ;<----- Coronal Suture
+           ___   |  '/~"     ~" . "~     "~\'  |
+           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+ Maxilla,  |      |   |        }:{        | <------ Orbit
+Nasal and  |      |   l       / | \       !   |
+Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
+  Bones    |      |    ----;' / | \ `;-<--------- Infraorbital Foramen
+           |__     \\__.       \/^\/       .__/
+              ___   V| \                 / |V <--- Mastoid Process
+              |      | |T~\\___!___!___/~T| |
+              |      | |`IIII_I_I_I_IIII'| |
+     Mandible |      |  \,III I I I III,/  |
+              |       \   `~~~~~~~~~~'    /
+              |         \   .       . <-x---- Mental Foramen
+              |__        \\.    ^    ./
+                            ^~~~^~~~^
 
-Here are some ideas to get you started:
-
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&login=dabalm)](https://github.com/mohouyizme/1337-readme)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
